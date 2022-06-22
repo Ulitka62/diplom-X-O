@@ -1,7 +1,7 @@
 let players = ['x', 'o'];
 let activePlayer = 0;
 
-let counet = 0;
+let counter = 0;
 let field = [
     ['','',''],
     ['','',''],
